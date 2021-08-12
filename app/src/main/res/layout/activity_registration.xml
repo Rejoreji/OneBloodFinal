@@ -34,7 +34,7 @@
             android:layout_marginRight="50dp"
             android:inputType="textCapWords"
             android:fontFamily="@font/poppins_regular"
-            android:hint="Full Legal Name"
+            android:hint="Full LegalName"
             android:textColor="#000000"
             android:textSize="16sp"
             android:textStyle="bold" />
